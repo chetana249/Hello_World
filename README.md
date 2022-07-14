@@ -1,2 +1,3 @@
 # Hello_World
-My first repo
+My first repository
+Github is a cloud Distributed VCS
