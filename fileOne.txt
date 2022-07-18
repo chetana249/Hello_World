@@ -1,2 +1,2 @@
-This is file1 of HELLO-WORLD Repository
-Edited this file
+echo "This is file1 of HELLO-WORLD Repository"
+echo "Edited this file"
